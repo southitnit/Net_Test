@@ -145,7 +145,4 @@ MIT License.
 
 ---
 
-## 🌐 Links
 
-- Repositório: https://github.com/SEU-USER/Net_Test  
-- Página do projeto: *(GitHub Pages)*  
